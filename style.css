@@ -1,0 +1,305 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+#title {
+    color: white;
+    padding: 1em 2em 4em;
+    background: linear-gradient(rgb(12, 12, 12), rgba(0, 0, 0, 0.7)),
+      url(https://images.unsplash.com/photo-1571754472834-677ab0a62ba7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1369&q=80);
+    height: 100%;
+    margin: 0px;
+    overflow-x: hidden;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken; 
+    text-align: center;
+  }
+
+
+  /* Tablet */
+  @media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) {
+
+  
+    #title {
+      color: white;
+      padding: 1em 2em 11em;
+      background: linear-gradient(rgb(12, 12, 12), rgba(0, 0, 0, 0.7)),
+        url(https://images.unsplash.com/photo-1571754472834-677ab0a62ba7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1369&q=80);
+      height: 100%;
+      margin: 0px;
+      overflow-x: hidden;
+      position: relative;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-blend-mode: darken; 
+      text-align: center;
+    }
+
+}
+
+
+
+  .elClasicoTitle {
+    padding-top: 1em;
+    width: 9.5em;
+  }
+
+/* Headings */
+
+  h1 {
+    font-size: 1.7em;
+    padding-top: 1.5em;
+  }
+
+  h6 {
+    font-size: 40%;
+    padding-top: 5%;
+  }
+  /* Flex */
+.flex-container1 {
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+  padding-top: 1em;
+  text-align: center;
+}
+
+      .flex-item1 {
+        padding: 10px;
+        flex: 45%;
+      }
+
+      .flex-item2 {
+        padding: 10px;
+        flex: 10%;
+      }
+
+      .flex-item3 {
+        padding: 10px;
+        flex: 45%;
+      }
+
+
+
+
+
+
+.flex-container2 {
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+
+      .flex-item4 {
+        padding: 10px;
+        flex: 45%;
+      }
+
+      .flex-item5 {
+        padding: 10px;
+        flex: 10%;
+      }
+
+      .flex-item6 {
+        padding: 10px;
+        flex: 45%;
+      }
+
+
+
+/* Images */
+.barcelonaLogo {
+  width: 3.5em;
+  padding-top: 1em;
+}
+
+.realmadridLogo {
+  width: 3.5em;
+}
+
+/* Score */
+.elclasicoScore {
+  padding-top: 0.3em;
+  width: 4.5em;
+}
+
+/* La Liga Logo */
+.laligaLogo {
+  padding-top: 1em;
+  width: 10em;
+}
+
+.elClasicoLogo {
+  padding-top: 2em;
+  width: 3em;
+}
+
+
+
+
+/* Font Awesome */
+.fa-minus {
+  padding-top: 2em;
+  padding-left: 0.5em;
+}
+
+
+
+
+/* Button */
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #000000;
+  background-color: #FFD700;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px rgb(217, 217, 217);
+}
+
+.button:hover {background-color: #ffffff}
+
+.button:active {
+  background-color: #FFD700;
+  box-shadow: 0 5px rgb(255, 255, 255);
+  transform: translateY(4px);
+}
+
+.buttonPadding {
+  padding-top: 2em;
+}
+
+
+
+
+
+/* Tablet */
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1024px) {
+
+
+/* barcelonaLogo */
+.barcelonaLogo {
+  width: 4.5em;
+  padding-top: 1em;
+}
+
+
+/* realMadridLogo */
+.realmadridLogo {
+  padding-top: 0.5em;
+  width: 4.5em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h6 {
+  font-size: 0.75em;
+}
+
+
+/* Score */
+.elclasicoScore {
+  padding-top: 0.5em;
+  width: 6em;
+}
+
+
+/* Font Awesome */
+.fa-minus {
+  padding-top: 2.8em;
+  padding-left: 0.5em;
+}
+
+
+.button {
+  padding: 12px 22px;
+  font-size: 1.1em;
+}
+
+
+/* La Liga Logo */
+.laligaLogo {
+  padding-top: 1.2em;
+  width: 10em;
+}
+
+}
+
+
+
+/* Desktop */
+
+@media only screen 
+and (min-device-width: 1024px) {
+
+/* barcelonaLogo */
+.barcelonaLogo {
+  width: 5em;
+  padding-top: 1em;
+}
+
+
+/* realMadridLogo */
+.realmadridLogo {
+  padding-top: 0.8em;
+  width: 4.5em;
+}
+
+h6 {
+  font-size: 0.75em;
+}
+
+h1 {
+  font-size: 1.8em;
+}
+
+
+
+/* Font Awesome */
+.fa-minus {
+  padding-top: 3.3em;
+  padding-left: 0.5em;
+}
+
+
+/* Score */
+.elclasicoScore {
+  padding-top: 0.5em;
+  width: 6.4em;
+}
+  
+
+/* La Liga Logo */
+.laligaLogo {
+  padding-top: 1.8em;
+  width: 10em;
+}
+
+
+}
