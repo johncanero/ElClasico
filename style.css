@@ -71,7 +71,35 @@ body {
   }
   
 
- 
+  /* Tablet */
+  @media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px)  {
+
+      
+  .grid-container1 {
+    grid-template-columns: 12em 6.5em 7em;
+    grid-template-rows: 16em;
+
+  }
+
+  
+  h1 {
+    padding-top: 2em;
+
+  }
+
+  h6 {
+    font-size: 1em;
+    padding-top: 1.2em;
+  }
+  
+/* Padding */
+.teamPadding {
+  margin-top: 1em;
+}
+}
+
 
 
   
@@ -124,7 +152,36 @@ body {
 }
 
 
+/* Tablet */
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1024px)  {
 
+
+  
+/* Images */
+.barcelonaLogo {
+  width: 8em;
+  padding-top: 1em;
+}
+
+.realmadridLogo {
+  width: 8em;
+}
+
+/* Score */
+.elclasicoScore {
+  width: 7em;
+}
+
+/* La Liga Logo */
+.laligaLogo {
+  padding-top: 3em;
+  width: 10em;
+}
+
+
+}
 
 
 
@@ -179,3 +236,14 @@ body {
 
 
 
+
+/* Tablet */
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1024px)  {
+
+  .myButton {
+    margin-top: 2.5em;
+  }
+
+}
