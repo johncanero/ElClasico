@@ -98,6 +98,10 @@ body {
 .teamPadding {
   margin-top: 1em;
 }
+
+.headerPadding {
+  margin-top: 2em;
+}
 }
 
 
@@ -176,7 +180,7 @@ and (max-device-width: 1024px)  {
 
 /* La Liga Logo */
 .laligaLogo {
-  padding-top: 3em;
+  padding-top: 2em;
   width: 10em;
 }
 
