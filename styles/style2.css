@@ -11,7 +11,7 @@
 /* HTML AND BODY + FOOTER GUIDE */
 body {
     font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(rgb(12, 12, 12), rgba(0, 0, 0, 0.7)),
+    background: linear-gradient(rgb(12, 12, 12), rgba(147, 147, 147, 0.7)),
     url(https://images.unsplash.com/photo-1571754472834-677ab0a62ba7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1369&q=80);
   
     margin: 0px;
