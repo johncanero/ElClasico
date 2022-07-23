@@ -107,7 +107,7 @@ body {
 
         
   .grid-container1 {
-    grid-template-columns: 17em 11.5em 7em;
+    grid-template-columns: 22em 16em 7.5em;
     grid-template-rows: 14em;
 
   }
