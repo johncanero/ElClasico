@@ -44,23 +44,6 @@ main {
 }
 
 
-/* FOOTER */
-.footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 100%;
-    padding: 0.7em;
-    background-color: #FFD700;
-    color: rgb(0, 0, 0);
-  }
-  
-  
-
 
 /* CONTENTS AND ELEMENTS */
 .elClasicoLogoMerged {
@@ -77,6 +60,47 @@ main {
   width: 10em;
   margin-top: 3em;
 }
+
+
+
+
+
+/* Tablet */
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1024px)  {
+
+/* CONTENTS AND ELEMENTS */
+.elClasicoLogoMerged {
+  width: 23em;
+  margin-top: 6em;
+}
+
+.elClasicoTitle {
+  width: 15em;
+  margin-top: 1em;
+}
+
+.laLigaLogo {
+  width: 10em;
+  margin-top: 9em;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* BUTTON */
@@ -106,4 +130,19 @@ main {
 }
         
 
-/* MEDIA QUERIES */
+/* FOOTER */
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  padding: 0.7em;
+  background-color: #FFD700;
+  color: rgb(0, 0, 0);
+}
+
+
