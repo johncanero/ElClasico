@@ -86,21 +86,7 @@ and (max-device-width: 1024px)  {
   margin-top: 9em;
 }
 
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* BUTTON */
@@ -127,6 +113,34 @@ and (max-device-width: 1024px)  {
   background-color: #FFD700;
   box-shadow: 0 5px rgb(255, 255, 255);
   transform: translateY(4px);
+}
+
+
+
+/* Desktop */
+@media only screen 
+and (min-device-width: 1025px) {
+
+/* CONTENTS AND ELEMENTS */
+.elClasicoLogoMerged {
+  width: 23em;
+  margin-top: 3.5em;
+}
+
+.elClasicoTitle {
+  width: 15em;
+  margin-top: 1em;
+}
+
+.laLigaLogo {
+  width: 10em;
+  margin-top: 2.2em;
+}
+
+.myButton {
+  margin-top: 4em;
+}
+
 }
         
 
