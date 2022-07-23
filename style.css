@@ -46,7 +46,7 @@ body {
 .grid-container1 {
   display: grid;
   grid-template-columns: 9em 5em 5.5em;
-  grid-template-rows: 12em;
+  grid-template-rows: 12.5em;
   justify-content: center;
   align-items: center;
 }
