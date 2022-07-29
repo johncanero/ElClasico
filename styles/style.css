@@ -73,6 +73,10 @@ main {
   }
   
 
+
+
+
+
   /* Tablet */
   @media only screen 
   and (min-device-width: 768px) 
@@ -161,7 +165,7 @@ main {
 /* La Liga Logo */
 .laligaLogo {
   padding-top: 2em;
-  margin-bottom: 4em;
+  margin-bottom: 6em;
   width: 10em;
 }
 
