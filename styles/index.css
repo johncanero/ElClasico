@@ -59,7 +59,7 @@ main {
 .laLigaLogo {
   width: 10em;
   margin-top: 6em;
-  margin-bottom: 8em;
+  margin-bottom: 5em;
 }
 
 
@@ -73,7 +73,7 @@ and (max-device-width: 1024px)  {
 
 /* CONTENTS AND ELEMENTS */
 .elClasicoLogoMerged {
-  width: 23em;
+  width: 24em;
   margin-top: 6em;
 }
 
@@ -83,8 +83,8 @@ and (max-device-width: 1024px)  {
 }
 
 .laLigaLogo {
-  width: 10em;
-  margin-top: 12em;
+  width: 12em;
+  margin-top: 8.5em;
 }
 
 }
@@ -147,7 +147,7 @@ and (min-device-width: 1025px) {
 
 .laLigaLogo {
   width: 10em;
-  margin-top: 2.5em;
+  margin-top: 5em;
 }
 
 .myButton {
