@@ -1,9 +1,42 @@
-# El Clásico Score Prediction (FC Barcelona vs Real Madrid)
+<!-- markdownlint-configure-file {
+  "MD013": {
+    "code_blocks": false,
+    "tables": false
+  },
+  "MD033": false,
+  "MD041": false
+} -->
 
-Hello Everyone! 👋 This is the El Clasico Score Prediction (FC Barcelona vs Real Madrid CF) ⚽ Feel free to view the work! Thanks! 💙
+<div align="center">
+  <a href="https://johncanero.github.io/ElClasico/" target="_blank">
+    <img alt="elClasicoIcon" height="100" src="/images/elClasico.png"/>
+  </a>
+</div>
 
-![Getting Started](images/elClasicoDesktop1.jpg)
-![Getting Started](images/elClasicoDesktop2.jpg)
-![Getting Started](images/elClasicoTablet.jpg)
-![Getting Started](images/elClasicoMobile.jpg)
-![Getting Started](images/elClasicoMockup.jpg)
+<div align="center">
+
+# El Clasico Score Prediction
+
+This is the El Clasico Score Prediction (FC Barcelona vs Real Madrid CF) ⚽ 
+
+El Clasico Match🔵🔴🟡⚪
+
+Football is my Sport! 🎨
+
+</div>
+
+## Website
+
+🖥️ [https://johncanero.github.io/ElClasico/]
+
+✍️ Project by John Cañero
+
+## Responsive Design
+
+🪟: [Desktop - Tablet - Mobile]
+
+![Desktop View 1](images/elClasicoDesktop1.jpg)
+![Desktop View 2](images/elClasicoDesktop2.jpg)
+![Tablet View](images/elClasicoTablet.jpg)
+![Mobile View](images/elClasicoMobile.jpg)
+![Responsive Views](images/elClasicoMockup.jpg)
