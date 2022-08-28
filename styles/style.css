@@ -243,7 +243,7 @@ and (max-device-width: 1024px)  {
 
 }
 
-/* Footer */
+/* FOOTER */
 .footer {
   position: relative;
   bottom: 0;
@@ -253,22 +253,20 @@ and (max-device-width: 1024px)  {
   justify-content: center;
   gap: 10px;
   width: 100%;
-  padding: 0.7em;
+  padding: 1em;
   background-color: #FFD700;
   color: rgb(0, 0, 0);
+  font-family: 'Squada One', cursive; 
+  font-size: 1.3em;
 }
 
 
 
-
-
-/* Button */
-
+/* BUTTON */
 .myButton {
   display: inline-block;
   padding: 10px 20px;
   margin-top: 4em;
-  font-size: 1em;
   font-weight: 500;
   cursor: pointer;
   text-align: center;
@@ -279,6 +277,8 @@ and (max-device-width: 1024px)  {
   border: none;
   border-radius: 12px;
   box-shadow: 0 4px rgb(217, 217, 217);
+  font-family: 'Squada One', cursive; 
+  font-size: 1.3em;
 }
 
 .myButton:hover {background-color: #ffffff}
