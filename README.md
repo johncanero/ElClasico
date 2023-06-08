@@ -27,7 +27,8 @@ Football is my Sport! 🎨
 
 ## Website
 
-🖥️ [https://johncanero.github.io/ElClasico/]
+🖥️: [https://johncanero.github.io/ElClasico/]
+🎥 Video: [https://youtu.be/sXDwpchquAY]
 
 ✍️ Project by John Cañero
 
